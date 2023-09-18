@@ -1,4 +1,6 @@
-[![MasterHead](
+<div align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:1200/0*o1dyxlRJVgXr6R5X" width="1200" height="400">
+</div>
 <h1 align="center">Hi 👋, I'm Gabriel Freitas</h1>
 <h3 align="center">A passionate data science and data engineering</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/31/53/2d/31532d7d378053de3b8bf23c6e7bfae3.gif">
@@ -10,10 +12,6 @@
 - 💬 Ask me about **Data Science, Power BI, Python, SQL and NoSQL database**
 
 - 📫 How to reach me **gfreitas322@gmail.com**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
