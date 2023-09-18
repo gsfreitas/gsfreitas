@@ -10,7 +10,8 @@
 - 🔭 I’m currently working at [Telefônica Vivo](https://www.vivo.com.br/para-voce)
 - 💬 Ask me about **Data Science, Power BI, Python, SQL and NoSQL database**
 - 🏫 Undergraduated in Science and Technology and Biomedical Engineering (on going)
-- 🔍 Interests: data science, machine learning, artificial intelligence 
+- 🔍 Interests: data science, machine learning, artificial intelligence
+- 📝 I regularly (not) write articles on [Medium](https://medium.com/@gsfreitas)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
