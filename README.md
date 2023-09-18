@@ -8,10 +8,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gsfreitas&label=Profile%20views&color=0e75b6&style=flat" alt="gsfreitas" /> </p>
 
 - 🔭 I’m currently working at [Telefônica Vivo](https://www.vivo.com.br/para-voce)
-
 - 💬 Ask me about **Data Science, Power BI, Python, SQL and NoSQL database**
-
-- 📫 How to reach me **gfreitas322@gmail.com**
+- 🏫 Undergraduated in Science and Technology and Biomedical Engineering (on going)
+- 🔍 Interests: data science, machine learning, artificial intelligence 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
