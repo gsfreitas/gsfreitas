@@ -1,6 +1,6 @@
-<div align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1200/0*o1dyxlRJVgXr6R5X" width="1200" height="400">
-</div>
+<p align="center">
+  <img src="github-wallpaper.png" >
+</p>
 <h1 align="center">Hi 👋, I'm Gabriel Freitas</h1>
 <h3 align="center">A passionate data science and data engineering</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/31/53/2d/31532d7d378053de3b8bf23c6e7bfae3.gif">
