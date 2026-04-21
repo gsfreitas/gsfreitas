@@ -1,26 +1,72 @@
+<h1 align="center">Olá, eu sou o Gabriel Freitas 👋</h1>
+
 <p align="center">
-  <img src="github-wallpaper.png" >
-</p>
-<h1 align="center">Hi 👋, I'm Gabriel Freitas</h1>
-<h3 align="center">A passionate data science and data engineering</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/31/53/2d/31532d7d378053de3b8bf23c6e7bfae3.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gsfreitas&label=Profile%20views&color=0e75b6&style=flat" alt="gsfreitas" /> </p>
-
-- 🔭 I’m currently working at [Telefônica Vivo](https://www.vivo.com.br/para-voce)
-- 💬 Ask me about **Data Science, Power BI, Python, SQL and NoSQL database**
-- 🏫 Undergraduated in Science and Technology and Biomedical Engineering (on going)
-- 🔍 Interests: data science, machine learning, artificial intelligence
-- 📝 I regularly (not) write articles on [Medium](https://medium.com/@gsfreitas)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/gabrielsfreitas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gabrielsfreitas/" height="30" width="40" /></a>
-<a href="https://instagram.com/gs.freitass" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gs.freitass" height="30" width="40" /></a>
-<a href="https://medium.com/@gsfreitas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gsfreitas" height="30" width="40" /></a>
+  <em>DevOps Engineer & ML Engineering Student</em>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gsfreitas&theme=tokyonight&show_icons=true&locale=en" alt="gsfreitas" /></p>
+### 👨‍💻 Sobre mim
+
+Sou **Senior DevOps Engineer** na **Telefônica Brasil (Vivo)**, onde lidero projetos de automação e infraestrutura em larga escala no setor de telecom. Minha formação combina **Engenharia Biomédica** e **Ciência & Tecnologia**, e atualmente estou cursando a **Pós-Graduação em Machine Learning Engineering (POSTECH)**, consolidando minha transição rumo ao universo de **MLOps** e **Inteligência Artificial aplicada**.
+
+Acredito que os problemas mais interessantes nascem da interseção entre áreas — e é nesse cruzamento entre **engenharia, dados e IA** que venho construindo minha trajetória.
+
+### 🧰 O que eu uso no dia a dia
+
+🐍 **Python** com **Pandas**, **Scikit-learn** e **MLflow** &nbsp;|&nbsp; ☁️ **AWS** e **Google Cloud** &nbsp;|&nbsp; 🐳 **Docker**, **Kubernetes** e **Terraform** &nbsp;|&nbsp; 🔧 **CI/CD**, **Git** e **Linux**
+
+---
+
+### 📊 Principais Projetos
+
+<table>
+  <tr>
+    <td width="50%">
+      <h4>📌 <a href="https://github.com/gsfreitas/tech-challenge-fase01">tech-challenge-fase01</a></h4>
+      <p>
+        Pipeline completo de <strong>predição de churn</strong> usando o Telco Customer Churn dataset. Projeto modularizado em <code>src/</code> com rastreamento de experimentos via <strong>MLflow</strong>, validação cruzada estratificada e modelos de baseline (Logistic Regression, Decision Tree, Dummy).
+      </p>
+    </td>
+    <td width="50%">
+      <h4>📌 <a href="https://github.com/gsfreitas/datalake-aws">datalake-aws</a></h4>
+      <p>
+        Implementação de um <strong>Data Lake na AWS</strong>, explorando a arquitetura medalhão (Bronze, Silver, Gold) com serviços como S3, Glue e Athena para ingestão, transformação e consulta de dados em escala.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4>📌 <a href="https://github.com/gsfreitas/engenharia-medica">engenharia-medica</a></h4>
+      <p>
+        Repositório com estudos e projetos desenvolvidos durante a graduação em <strong>Engenharia Biomédica</strong>, aplicando ciência de dados e processamento de sinais em problemas da área da saúde.
+      </p>
+    </td>
+    <td width="50%">
+      <h4>📌 Quer ver mais?</h4>
+      <p>
+        Acesse <a href="https://github.com/gsfreitas?tab=repositories">a página de repositórios</a> para ver a lista completa dos meus projetos — de forecasting a automação com n8n.
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🤝 Obrigado pela visita!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gabrielsfreitas/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://medium.com/@gsfreitas">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  </a>
+  <a href="https://www.instagram.com/gs.freitass/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
+
+<p align="center">
+  <sub>Feito com 💞 no Brasil 💚💛</sub>
+</p>
