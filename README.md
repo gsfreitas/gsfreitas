@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="100%" alt="Data Flow Banner"/>
+</p>
+
 <h1 align="center">Olá, eu sou o Gabriel Freitas 👋</h1>
 
 <p align="center">
@@ -43,13 +47,17 @@ Acredito que os problemas mais interessantes nascem da interseção entre áreas
       </p>
     </td>
     <td width="50%">
-      <h4>📌 Quer ver mais?</h4>
+      <h4>📌 <a href="https://github.com/gsfreitas/data-science">data-science</a></h4>
       <p>
-        Acesse <a href="https://github.com/gsfreitas?tab=repositories">a página de repositórios</a> para ver a lista completa dos meus projetos — de forecasting a automação com n8n.
+        Coletânea de estudos e experimentos em <strong>ciência de dados</strong>, cobrindo análise exploratória, modelagem estatística e aplicações de machine learning em datasets variados.
       </p>
     </td>
   </tr>
 </table>
+
+<p align="center">
+  Acesse <a href="https://github.com/gsfreitas?tab=repositories">a página de repositórios</a> para ver a lista completa dos meus projetos.
+</p>
 
 ---
 
