@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="100%" alt="Data Flow Banner"/>
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/bbefa799786133.5efa9bf3d1b49.gif" width="100%" alt="Mastermind by Pixel Jeff"/>
 </p>
 
 <h1 align="center">Olá, eu sou o Gabriel Freitas 👋</h1>
@@ -77,4 +77,8 @@ Acredito que os problemas mais interessantes nascem da interseção entre áreas
 
 <p align="center">
   <sub>Feito com 💞 no Brasil 💚💛</sub>
+</p>
+
+<p align="center">
+  <sub>Pixel art do banner: <a href="https://www.behance.net/gallery/99786133/Mastermind">"Mastermind"</a> por <a href="https://www.behance.net/pixeljeff">Pixel Jeff</a></sub>
 </p>
