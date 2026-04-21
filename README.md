@@ -18,7 +18,7 @@ Acredito que os problemas mais interessantes nascem da interseção entre áreas
 
 ### 🧰 O que eu uso no dia a dia
 
-🐍 **Python** com **Pandas**, **Scikit-learn** e **MLflow** &nbsp;|&nbsp; ☁️ **AWS** e **Google Cloud** &nbsp;|&nbsp; 🐳 **Docker**, **Kubernetes** e **Terraform** &nbsp;|&nbsp; 🔧 **CI/CD**, **Git** e **Linux**
+🐍 **Python** com **Pandas**, **Scikit-learn** e **MLflow** &nbsp;|&nbsp; ☁️ **AWS** e **Microsoft Azure** &nbsp;|&nbsp; 🐳 **Docker**, **Kubernetes** e **Terraform** &nbsp;|&nbsp; 🔧 **CI/CD**, **Git** e **Linux**
 
 ---
 
