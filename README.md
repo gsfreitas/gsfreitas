@@ -18,7 +18,13 @@ Acredito que os problemas mais interessantes nascem da interseção entre áreas
 
 ### 🧰 O que eu uso no dia a dia
 
-🐍 **Python** com **Pandas**, **Scikit-learn** e **MLflow** &nbsp;|&nbsp; ☁️ **AWS** e **Microsoft Azure** &nbsp;|&nbsp; 🐳 **Docker**, **Kubernetes** e **Terraform** &nbsp;|&nbsp; 🔧 **CI/CD**, **Git** e **Linux**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning%20Engineering-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning Engineering"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure"/>
+  <img src="https://img.shields.io/badge/MLOps-1f6feb?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLOps"/>
+</p>
 
 ---
 
