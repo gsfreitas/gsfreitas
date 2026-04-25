@@ -16,8 +16,6 @@ Sou **Senior DevOps Engineer** na **Telefônica Brasil (Vivo)**, onde lidero pro
 
 Acredito que os problemas mais interessantes nascem da interseção entre áreas — e é nesse cruzamento entre **engenharia, dados e IA** que venho construindo minha trajetória.
 
-### 🧰 O que eu uso no dia a dia
-
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Machine%20Learning%20Engineering-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning Engineering"/>
