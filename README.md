@@ -45,9 +45,9 @@ Acredito que os problemas mais interessantes nascem da interseção entre áreas
   </tr>
   <tr>
     <td width="50%">
-      <h4>📌 <a href="https://github.com/gsfreitas/engenharia-medica">engenharia-medica</a></h4>
+      <h4>📌 <a href="https://github.com/gsfreitas/azure-rag-sqldatabase/">azure-rag-sqldatabase</a></h4>
       <p>
-        Repositório com estudos e projetos desenvolvidos durante a graduação em <strong>Engenharia Biomédica</strong>, aplicando ciência de dados e processamento de sinais em problemas da área da saúde.
+        Implementação de uma arquitetura RAG (Retrieval-Augmented Generation) executada dentro do motor relacional do Azure SQL Database, integrando-se nativamente com o Azure OpenAI.
       </p>
     </td>
     <td width="50%">
