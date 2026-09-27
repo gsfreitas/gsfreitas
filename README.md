@@ -29,44 +29,39 @@ Acredito que os problemas mais interessantes nascem da interseção entre áreas
 ### 📊 Principais Projetos
 
 <table>
+  <!-- Primeira Linha -->
   <tr>
     <td width="50%">
       <h4>📌 <a href="https://github.com/gsfreitas/tech-challenge-fase01">tech-challenge-fase01</a></h4>
-      <p>
-        Pipeline completo de <strong>predição de churn</strong> usando o Telco Customer Churn dataset. Projeto modularizado em <code>src/</code> com rastreamento de experimentos via <strong>MLflow</strong>, validação cruzada estratificada e modelos de baseline (Logistic Regression, Decision Tree, Dummy).
-      </p>
+      <p>Pipeline completo de <strong>predição de churn</strong> usando o Telco Customer Churn dataset. Projeto modularizado em <code>src/</code> com rastreamento de experimentos via <strong>MLflow</strong>, validação cruzada estratificada e modelos de baseline.</p>
     </td>
     <td width="50%">
       <h4>📌 <a href="https://github.com/SkiereszDiego/tech-challenge-fase03">tech-challenge-fase03</a></h4>
-      <p>
-        O objetivo é disponibilizar um modelo de classificação de textos médicos por meio de uma API REST, considerando não apenas a qualidade das previsões, mas também aspectos importantes para o uso de modelos em produção
-      </p>
-    </td>
-    <td width="50%">
-      <h4>📌 <a href="https://github.com/PosTech9MLET/tech-challenge-2">tech-challenge-fase02</a></h4>
-      <p>
-        Sistema de recomendação de produtos baseado no comportamento de compra de usuários do Instacart, utilizando redes neurais (MLP/Embedding-based) treinadas com PyTorch.
-      </p>
-    </td>
-    <td width="50%">
-      <h4>📌 <a href="https://github.com/gsfreitas/datalake-aws">datalake-aws</a></h4>
-      <p>
-        Implementação de um <strong>Data Lake na AWS</strong>, explorando a arquitetura medalhão (Bronze, Silver, Gold) com serviços como S3, Glue e Athena para ingestão, transformação e consulta de dados em escala.
-      </p>
+      <p>Disponibilização de um modelo de classificação de textos médicos por meio de uma API REST (FastAPI/ONNX), considerando métricas de inferência e monitoramento com Prometheus.</p>
     </td>
   </tr>
+  
+  <!-- Segunda Linha -->
   <tr>
     <td width="50%">
-      <h4>📌 <a href="https://github.com/gsfreitas/azure-rag-sqldatabase/">azure-rag-sqldatabase</a></h4>
-      <p>
-        Implementação de uma arquitetura RAG (Retrieval-Augmented Generation) executada dentro do motor relacional do Azure SQL Database, integrando-se nativamente com o Azure OpenAI.
-      </p>
+      <h4>📌 <a href="https://github.com/PosTech9MLET/tech-challenge-2">tech-challenge-fase02</a></h4>
+      <p>Descrição do projeto da Fase 2...</p>
     </td>
     <td width="50%">
-      <h4>📌 <a href="https://github.com/gsfreitas/data-science">data-science</a></h4>
-      <p>
-        Coletânea de estudos e experimentos em <strong>ciência de dados</strong>, cobrindo análise exploratória, modelagem estatística e aplicações de machine learning em datasets variados.
-      </p>
+      <h4>📌 Projeto 04</h4>
+      <p>Descrição do seu quarto projeto...</p>
+    </td>
+  </tr>
+
+  <!-- Terceira Linha -->
+  <tr>
+    <td width="50%">
+      <h4>📌 Projeto 05</h4>
+      <p>Descrição do seu quinto projeto...</p>
+    </td>
+    <td width="50%">
+      <h4>📌 Projeto 06</h4>
+      <p>Descrição do seu sexto projeto...</p>
     </td>
   </tr>
 </table>
