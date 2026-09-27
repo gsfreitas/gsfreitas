@@ -37,6 +37,18 @@ Acredito que os problemas mais interessantes nascem da interseção entre áreas
       </p>
     </td>
     <td width="50%">
+      <h4>📌 <a href="https://github.com/SkiereszDiego/tech-challenge-fase03">tech-challenge-fase03</a></h4>
+      <p>
+        O objetivo é disponibilizar um modelo de classificação de textos médicos por meio de uma API REST, considerando não apenas a qualidade das previsões, mas também aspectos importantes para o uso de modelos em produção
+      </p>
+    </td>
+    <td width="50%">
+      <h4>📌 <a href="https://github.com/PosTech9MLET/tech-challenge-2">tech-challenge-fase02</a></h4>
+      <p>
+        Sistema de recomendação de produtos baseado no comportamento de compra de usuários do Instacart, utilizando redes neurais (MLP/Embedding-based) treinadas com PyTorch.
+      </p>
+    </td>
+    <td width="50%">
       <h4>📌 <a href="https://github.com/gsfreitas/datalake-aws">datalake-aws</a></h4>
       <p>
         Implementação de um <strong>Data Lake na AWS</strong>, explorando a arquitetura medalhão (Bronze, Silver, Gold) com serviços como S3, Glue e Athena para ingestão, transformação e consulta de dados em escala.
