@@ -32,11 +32,11 @@ Acredito que os problemas mais interessantes nascem da interseção entre áreas
   <!-- Primeira Linha -->
   <tr>
     <td width="50%">
-      <h4>📌 <a href="https://github.com/gsfreitas/tech-challenge-fase01">tech-challenge-fase01</a></h4>
+      <h4>📌 <a href="https://github.com/gsfreitas/tech-challenge-fase01">Previsão de Churn Telco</a></h4>
       <p>Pipeline completo de <strong>predição de churn</strong> usando o Telco Customer Churn dataset. Projeto modularizado em <code>src/</code> com rastreamento de experimentos via <strong>MLflow</strong>, validação cruzada estratificada e modelos de baseline.</p>
     </td>
     <td width="50%">
-      <h4>📌 <a href="https://github.com/SkiereszDiego/tech-challenge-fase03">tech-challenge-fase03</a></h4>
+      <h4>📌 <a href="https://github.com/SkiereszDiego/tech-challenge-fase03">Classificador de Textos Médicos</a></h4>
       <p>Disponibilização de um modelo de classificação de textos médicos por meio de uma API REST (FastAPI/ONNX), considerando métricas de inferência e monitoramento com Prometheus.</p>
     </td>
   </tr>
@@ -44,24 +44,24 @@ Acredito que os problemas mais interessantes nascem da interseção entre áreas
   <!-- Segunda Linha -->
   <tr>
     <td width="50%">
-      <h4>📌 <a href="https://github.com/PosTech9MLET/tech-challenge-2">tech-challenge-fase02</a></h4>
-      <p>Descrição do projeto da Fase 2...</p>
+      <h4>📌 <a href="https://github.com/PosTech9MLET/tech-challenge-2">Sistema de Recomendação de Compras</a></h4>
+      <p>Sistema de recomendação de produtos baseado no comportamento de compra de usuários do Instacart, utilizando redes neurais (MLP/Embedding-based) treinadas com PyTorch.</p>
     </td>
     <td width="50%">
-      <h4>📌 Projeto 04</h4>
-      <p>Descrição do seu quarto projeto...</p>
+      <h4>📌 <a href="https://github.com/gsfreitas/azure-rag-sqldatabase">Azure RAG SQL Database</a></h4>
+      <p>Implementação prática de uma arquitetura RAG (Retrieval-Augmented Generation) executada inteiramente dentro do motor relacional do Azure SQL Database, integrando-se nativamente com o Azure OpenAI.</p>
     </td>
   </tr>
 
   <!-- Terceira Linha -->
   <tr>
     <td width="50%">
-      <h4>📌 Projeto 05</h4>
-      <p>Descrição do seu quinto projeto...</p>
+      <h4>📌 <a href="https://github.com/gsfreitas/datalake-aws">Datalake AWS</a></h4>
+      <p>Criação de um datalake e processo ETL na AWS</p>
     </td>
     <td width="50%">
-      <h4>📌 Projeto 06</h4>
-      <p>Descrição do seu sexto projeto...</p>
+      <h4>📌 <a href="https://github.com/gsfreitas/engenharia-medica">Engenharia Médica</a></h4>
+      <p>Técnicas de extração de informação, reconhecimento de padrões e classificação que são empregadas para o desenvolvimento de sistemas automatizados de apoio ao diagnóstico médico, além de fornecer conhecimentos sobre os princípios da avaliação de intervenções médicas.</p>
     </td>
   </tr>
 </table>
